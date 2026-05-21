@@ -87,18 +87,18 @@ plt.axis('off')
 ### Display the input Image
 
 
-<img width="938" height="642" alt="image" src="https://github.com/user-attachments/assets/0341e195-db1f-4d39-a985-3a775f666487" />
+<img width="691" height="512" alt="image" src="https://github.com/user-attachments/assets/3b629991-6271-47f6-86a4-0012f9a12c82" />
 
 
 ### Display the result of Opening
 
-<img width="937" height="632" alt="image" src="https://github.com/user-attachments/assets/36a089a8-8cfc-4edf-814b-6e1590064fd5" />
+<img width="721" height="515" alt="image" src="https://github.com/user-attachments/assets/99c97d0a-becc-437d-b54b-ca6c3a78c1d1" />
 
 
 
 ### Display the result of Closing
 
-<img width="965" height="641" alt="image" src="https://github.com/user-attachments/assets/cc275cdf-75ba-4fab-86db-a99bb9ea907c" />
+<img width="723" height="513" alt="image" src="https://github.com/user-attachments/assets/8706b309-3353-4703-8896-c47dec524a90" />
 
 
 
